@@ -39,4 +39,14 @@ An electric vehicle with the following essential characteristics is represented 
 A scatter plot comparing actual and predicted EV prices reveals a strong linear relationship.
 
 ---
+## 🌐 Week 2 – Streamlit Web Application
+
+In Week 2, a web interface was built using **Streamlit** to predict the resale value of electric vehicles based on user input features.  
+Users can enter EV details such as year, battery capacity, range, and maintenance cost to get a predicted resale value in real time.
+
+**Improvements made:**
+- Integrated trained ML model with Streamlit frontend  
+- Added clean and responsive UI design  
+- Tested model predictions for accuracy and usability  
+- Verified compatibility with Python 3.13 environment  
 
